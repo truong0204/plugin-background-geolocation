@@ -23,8 +23,8 @@
     <platform name="android">
         <preference name="GOOGLE_PLAY_SERVICES_VERSION" default="11+"/>
         <preference name="ANDROID_SUPPORT_LIBRARY_VERSION" default="23+"/>
-        <preference name="ICON" default="@mipmap/ic_launcher" />
-        <preference name="SMALL_ICON" default="@mipmap/ic_launcher" />
+        <preference name="ICON" default="" />
+        <preference name="SMALL_ICON" default="" />
         <preference name="ACCOUNT_NAME" default="@string/app_name" />
         <preference name="ACCOUNT_LABEL" default="@string/app_name" />
         <preference name="ACCOUNT_TYPE" default="$PACKAGE_NAME.account" />
